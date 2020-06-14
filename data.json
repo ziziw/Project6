@@ -1,0 +1,86 @@
+{
+  "projects": [
+    {
+      "id": 0,
+      "project_name": "A Random Quote Generator",
+      "description": "An app that displays random famous quotes each time a button is clicked.",
+      "technologies": [
+        "Javascript",
+        "HTML",
+        "CSS"
+      ],
+      "live_link": "https://ziziw.github.io/Project1/",
+      "github_link": "https://github.com/ziziw/Project1",
+      "image_urls": [
+          "images/Project1_Landing.png",
+          "images/Project1_Landscape1.png",
+          "images/Project1_Landscape2.png"
+      ]
+    },
+    {
+      "id": 1,
+      "project_name": "List Pagination and Filtering",
+      "description": "A common web development technique known as \"pagination\" to enhance the usability of a web page.",
+      "technologies": [
+        "Javascript",
+        "HTML",
+        "CSS"
+      ],
+      "live_link": "https://ziziw.github.io/Project2/",
+      "github_link": "https://github.com/ziziw/Project2",
+      "image_urls": [
+          "images/Project2_Landing.png",
+          "images/Project2_Landscape.png"
+      ]
+    },
+    {
+      "id": 2,
+      "project_name": "Interactive Form",
+      "description": "An interactive registration form for a fictional conference called \"FullStack Conf\" using Javascript.",
+      "technologies": [
+        "Javascript",
+        "HTML",
+        "CSS"
+      ],
+      "live_link": "https://ziziw.github.io/Project3/",
+      "github_link": "https://github.com/ziziw/Project3",
+      "image_urls": [
+          "images/Project3_Landing.png",
+          "images/Project3_Landscape.png"
+      ]
+    },
+    {
+      "id": 3,
+      "project_name": "OOP Game Show App",
+      "description": "A browser-based, word guessing game: \"Phrase Hunter.\"",
+      "technologies": [
+        "Javascript",
+        "HTML",
+        "CSS"
+      ],
+      "live_link": "https://ziziw.github.io/Project4/",
+      "github_link": "https://github.com/ziziw/Project4",
+      "image_urls": [
+          "images/Project4_Landing.png",
+          "images/Project4_Landscape1.png",
+          "images/Project4_Landscape2.png"
+      ]
+    },
+    {
+      "id": 4,
+      "project_name": "Public API Requests",
+      "description": "An app that generates 12 random users using Random User Generator API.",
+      "technologies": [
+        "Javascript",
+        "HTML",
+        "CSS"
+      ],
+      "live_link": "https://ziziw.github.io/Project5/",
+      "github_link": "https://github.com/ziziw/Project5",
+      "image_urls": [
+          "images/Project5_Landing.png",
+          "images/Project5_Landscape.png"
+      ]
+    }
+  ]
+}
