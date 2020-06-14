@@ -1,12 +1,11 @@
 const express = require('express');
-const path = require('path');
 
 const app = express();
 
-app.set('views', path.join(__dirname, 'views'));
+app.use('/static', express.static('public'));
+
 app.set('view engine', 'pug');
 
-app.set(express.static(path.join(__dirname, 'public')));
 
 const mainRoute = require('./routes');
 const aboutRoute = require('./routes/about');
