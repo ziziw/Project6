@@ -56,22 +56,29 @@ a:hover{
   line-height: 0;
 }
 
+.profile-pic {
+  border-radius: 50%;
+}
+
 .portfolio-me{
   padding: 20px;
-  background: #121213;
+  background-color: #3399ff;
+  /*background: #121213;*/
   color: #fff;
   box-shadow: none !important;
 }
 
   .portfolio-me p{
     font-size: 14px;
-    color: #999;
+    color: #000;
+    /*color: #999;*/
   }
 
   .portfolio-me a{
     font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-weight: 600;
-    color: #555;
+    color: #000;
+    /*color: #555;*/
     font-size: 13px;
     letter-spacing: 2.5px;
     -webkit-text-transform: uppercase;
@@ -103,7 +110,8 @@ a:hover{
 }
 
 .portfolio-intro p{
-  border-bottom: 1px solid #eaeaea;
+  border-bottom: 3px solid black;
+  /*border-bottom: 1px solid #eaeaea;*/
   padding-bottom: 40px;
 }
 
@@ -147,4 +155,31 @@ a:hover{
 
 .portfolio-bio{
     line-height: 25px;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.button.expanded {
+  width: 60px;
 }
