@@ -12,9 +12,9 @@
       "live_link": "https://ziziw.github.io/Project1/",
       "github_link": "https://github.com/ziziw/Project1",
       "image_urls": [
-          "images/Project1_Landing.png",
-          "images/Project1_Landscape1.png",
-          "images/Project1_Landscape2.png"
+          "../static/images/Project1_Landing.png",
+          "../static/images/Project1_Landscape1.png",
+          "../static/images/Project1_Landscape2.png"
       ]
     },
     {
@@ -29,8 +29,8 @@
       "live_link": "https://ziziw.github.io/Project2/",
       "github_link": "https://github.com/ziziw/Project2",
       "image_urls": [
-          "images/Project2_Landing.png",
-          "images/Project2_Landscape.png"
+          "../static/images/Project2_Landing.png",
+          "../static/images/Project2_Landscape.png"
       ]
     },
     {
@@ -45,8 +45,8 @@
       "live_link": "https://ziziw.github.io/Project3/",
       "github_link": "https://github.com/ziziw/Project3",
       "image_urls": [
-          "images/Project3_Landing.png",
-          "images/Project3_Landscape.png"
+          "../static/images/Project3_Landing.png",
+          "../static/images/Project3_Landscape.png"
       ]
     },
     {
@@ -61,9 +61,9 @@
       "live_link": "https://ziziw.github.io/Project4/",
       "github_link": "https://github.com/ziziw/Project4",
       "image_urls": [
-          "images/Project4_Landing.png",
-          "images/Project4_Landscape1.png",
-          "images/Project4_Landscape2.png"
+          "../static/images/Project4_Landing.png",
+          "../static/images/Project4_Landscape1.png",
+          "../static/images/Project4_Landscape2.png"
       ]
     },
     {
@@ -78,8 +78,8 @@
       "live_link": "https://ziziw.github.io/Project5/",
       "github_link": "https://github.com/ziziw/Project5",
       "image_urls": [
-          "images/Project5_Landing.png",
-          "images/Project5_Landscape.png"
+          "../static/images/Project5_Landing.png",
+          "../static/images/Project5_Landscape.png"
       ]
     }
   ]
