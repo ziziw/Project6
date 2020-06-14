@@ -6,7 +6,6 @@ app.use('/static', express.static('public'));
 
 app.set('view engine', 'pug');
 
-
 const mainRoute = require('./routes');
 const aboutRoute = require('./routes/about');
 const projectRoute = require('./routes/project');
