@@ -1,7 +1,8 @@
 extends layout
 
 block content
+  nav.grid-container.portfolio-breadcrumb
+    a(href='/') ← Back
   h1= error.message
   h2= 'Status: ' + error.status
-  a(href='/') Return to home Page
   pre= error.stack

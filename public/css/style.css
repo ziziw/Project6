@@ -180,6 +180,6 @@ a:hover{
   color: white;
 }
 
-.button.expanded {
+.button.expanded.width-60 {
   width: 60px;
 }
