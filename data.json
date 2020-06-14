@@ -14,7 +14,8 @@
       "image_urls": [
           "../static/images/Project1_Landing.png",
           "../static/images/Project1_Landscape1.png",
-          "../static/images/Project1_Landscape2.png"
+          "../static/images/Project1_Landscape2.png",
+          "../static/images/Project1_Landscape3.png"
       ]
     },
     {
@@ -30,7 +31,9 @@
       "github_link": "https://github.com/ziziw/Project2",
       "image_urls": [
           "../static/images/Project2_Landing.png",
-          "../static/images/Project2_Landscape.png"
+          "../static/images/Project2_Landscape1.png",
+          "../static/images/Project2_Landscape2.png",
+          "../static/images/Project2_Landscape3.png"
       ]
     },
     {
@@ -46,7 +49,9 @@
       "github_link": "https://github.com/ziziw/Project3",
       "image_urls": [
           "../static/images/Project3_Landing.png",
-          "../static/images/Project3_Landscape.png"
+          "../static/images/Project3_Landscape1.png",
+          "../static/images/Project3_Landscape2.png",
+          "../static/images/Project3_Landscape3.png"
       ]
     },
     {
@@ -54,7 +59,7 @@
       "project_name": "OOP Game Show App",
       "description": "A browser-based, word guessing game: \"Phrase Hunter.\"",
       "technologies": [
-        "Javascript",
+        "Object-Oriented Javascript",
         "HTML",
         "CSS"
       ],
@@ -63,7 +68,8 @@
       "image_urls": [
           "../static/images/Project4_Landing.png",
           "../static/images/Project4_Landscape1.png",
-          "../static/images/Project4_Landscape2.png"
+          "../static/images/Project4_Landscape2.png",
+          "../static/images/Project4_Landscape3.png"
       ]
     },
     {
@@ -72,14 +78,16 @@
       "description": "An app that generates 12 random users using Random User Generator API.",
       "technologies": [
         "Javascript",
-        "HTML",
-        "CSS"
+        "API",
+        "JSON"
       ],
       "live_link": "https://ziziw.github.io/Project5/",
       "github_link": "https://github.com/ziziw/Project5",
       "image_urls": [
           "../static/images/Project5_Landing.png",
-          "../static/images/Project5_Landscape.png"
+          "../static/images/Project5_Landscape1.png",
+          "../static/images/Project5_Landscape2.png",
+          "../static/images/Project5_Landscape3.png"
       ]
     }
   ]
